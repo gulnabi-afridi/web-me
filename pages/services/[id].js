@@ -19,7 +19,7 @@ const Service = ({ service }) => {
             <p>{service.listData.listHeading}</p>
             <ul className="list-decimal list-inside ml-8">
               {service.listData.list.map((item, index) => {
-                return <li>{item}</li>;
+                return <li key={index}>{item}</li>;
               })}
             </ul>
           </>
@@ -44,7 +44,7 @@ const Service = ({ service }) => {
 };
 
 export const getStaticPaths = () => {
-  const paths = featuredPortfolio.map((item) => `/services/${item.id}`);
+  const paths = featuredPortfolio.map((item,index) => `/services/${item.id}`);
   return {
     paths,
     fallback: false,
