@@ -151,7 +151,7 @@ function TermsConditions() {
           These organizations may link to our home page so long as the link: (a)
           is not in any way deceptive; (b) does not falsely imply sponsorship,
           endorsement or approval of the linking party and its products or
-          services; and (c) fits within the context of the linking party’s site.
+          services; and (c) fits within the context of the linking party&apos;s site.
         </p>
         <p>
           If you are one of the organizations listed in paragraph 2 above and
@@ -213,7 +213,7 @@ function TermsConditions() {
           We reserve the right to request that you remove all links or any
           particular link to our Website. You approve to immediately remove all
           links to our Website upon request. We also reserve the right to amen
-          these terms and conditions and it’s linking policy at any time. By
+          these terms and conditions and it&apos;s linking policy at any time. By
           continuously linking to our Website, you agree to be bound to and
           follow these linking terms and conditions.
         </p>
