@@ -22,7 +22,7 @@ function TermsConditions() {
         </p>
         <p>
           These terms and conditions outline the rules and regulations for the
-          use of WEBME Information Technology Consultancy's Website, located at
+          use of WEBME Information Technology Consultancy&apos;s Website, located at
           <span className="text-indigo-500 cursor-pointer">
             https://webmedigital.com.
           </span>
@@ -35,11 +35,11 @@ function TermsConditions() {
         </p>
         <p>
           The following terminology applies to these Terms and Conditions,
-          Privacy Statement and Disclaimer Notice and all Agreements: "Client",
-          {"You"} and "Your" refers to you, the person log on this website and
+          Privacy Statement and Disclaimer Notice and all Agreements: {"Client"},
+          {"You"} and {"Your"} refers to you, the person log on this website and
           compliant to the Company’s terms and conditions. {"The Company"},
-          {"Ourselves"}, "We", "Our" and "Us", refers to our Company. "Party",
-          "Parties", or "Us", refers to both the Client and ourselves. All terms
+          {"Ourselves"}, {"We"}, {"Our"} and {"Us"}, refers to our Company. {"Party"},
+          {"Parties"}, or {"Us"}, refers to both the Client and ourselves. All terms
           refer to the offer, acceptance and consideration of payment necessary
           to undertake the process of our assistance to the Client in the most
           appropriate manner for the express purpose of meeting the Client’s
