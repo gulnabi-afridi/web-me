@@ -12,7 +12,6 @@ function TermsConditions() {
           layout="fill"
           alt="terms and condition image"
         ></Image>
-    
       </div>
       <h1 className="text-indigo-600 w-full flex justify-center items-centertext-center text-[36px] text-center font-bold mb-0 md:mb-6">
         Terms and Conditions
@@ -23,7 +22,7 @@ function TermsConditions() {
         </p>
         <p>
           These terms and conditions outline the rules and regulations for the
-          use of WEBME Information Technology Consultancy's Website, located at{" "}
+          use of WEBME Information Technology Consultancy's Website, located at
           <span className="text-indigo-500 cursor-pointer">
             https://webmedigital.com.
           </span>
@@ -37,9 +36,9 @@ function TermsConditions() {
         <p>
           The following terminology applies to these Terms and Conditions,
           Privacy Statement and Disclaimer Notice and all Agreements: "Client",
-          "You" and "Your" refers to you, the person log on this website and
-          compliant to the Company’s terms and conditions. "The Company",
-          "Ourselves", "We", "Our" and "Us", refers to our Company. "Party",
+          {"You"} and "Your" refers to you, the person log on this website and
+          compliant to the Company’s terms and conditions. {"The Company"},
+          {"Ourselves"}, "We", "Our" and "Us", refers to our Company. "Party",
           "Parties", or "Us", refers to both the Client and ourselves. All terms
           refer to the offer, acceptance and consideration of payment necessary
           to undertake the process of our assistance to the Client in the most
@@ -81,7 +80,7 @@ function TermsConditions() {
       </div>
       {/* ===========> you must not */}
       <div className="flex flex-col gap-3">
-        <p className="text-indigo-600 font-bold text-[24px]">You must not:</p>{" "}
+        <p className="text-indigo-600 font-bold text-[24px]">You must not:</p>
         <ul className="list-disc list-inside ml-8">
           {TermsConditionData.MustNot.map((value, index) => {
             return <li key={index}>{value}</li>;
