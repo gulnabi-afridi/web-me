@@ -143,7 +143,7 @@ function TermsConditions() {
         </p>
         <ul className="list-disc list-inside ml-8">
           {TermsConditionData.ConsiderAndApprove.map((value, index) => {
-            return <li>{value}</li>;
+            return <li key={index}>{value}</li>;
           })}
         </ul>
         {/* ========> */}
